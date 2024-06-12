@@ -24,6 +24,7 @@
 		E40CA5962C19B23700340FB9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E40CA5992C19B23700340FB9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E40CA59B2C19B23700340FB9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E40CA5A12C19B29400340FB9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		E40CA5812C19B23600340FB9 = {
 			isa = PBXGroup;
 			children = (
+				E40CA5A12C19B29400340FB9 /* README.md */,
 				E40CA58C2C19B23600340FB9 /* StoryboardDeviceDetectorApp */,
 				E40CA58B2C19B23600340FB9 /* Products */,
 			);
